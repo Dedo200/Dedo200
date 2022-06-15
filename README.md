@@ -8,4 +8,4 @@
 Dedo200/Dedo200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- what is so special about me? What's about me is dedication to work and organizational skills
+- what is so special about me? What's special about me is my dedication to work and organizational skills
